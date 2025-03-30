@@ -139,11 +139,11 @@ Build a community forum where users can share experiences, resources, and tips r
 
 
 
-![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/85c09c0d49be768e4e3f7fbb18e0205309b811c8/home.jpg)
-![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/8d78faf18c8882cc02588c74e36c9c110689e7d5/search.jpg)
-![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/8d78faf18c8882cc02588c74e36c9c110689e7d5/mentors.jpg)
-![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/8d78faf18c8882cc02588c74e36c9c110689e7d5/chat.jpg)
-![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/8d78faf18c8882cc02588c74e36c9c110689e7d5/book.jpg)
-![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/b4c19ddfbd8ac077a5c2a159a6f215bf820252d8/feedback.jpg)
-![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/cde623feae3376c17666bcfb31a17f1b23698219/chat2.jpg)
+![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/cb9e516dc83825cb1cc55b2999dd93a7bce53682/Landing%20Page.png)
+![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/cb9e516dc83825cb1cc55b2999dd93a7bce53682/Mentor%20Profiles.png)
+![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/cb9e516dc83825cb1cc55b2999dd93a7bce53682/Search%20%26%20Filter.png)
+![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/cb9e516dc83825cb1cc55b2999dd93a7bce53682/Video%20Call%20Scheduling.png)
+![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/cb9e516dc83825cb1cc55b2999dd93a7bce53682/Chat%20Interface.png)
+![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/cb9e516dc83825cb1cc55b2999dd93a7bce53682/Feedback%20Submission.png)
+
 
