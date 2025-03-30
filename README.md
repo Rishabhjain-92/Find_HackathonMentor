@@ -144,5 +144,5 @@ Build a community forum where users can share experiences, resources, and tips r
 ![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/8d78faf18c8882cc02588c74e36c9c110689e7d5/mentors.jpg)
 ![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/8d78faf18c8882cc02588c74e36c9c110689e7d5/chat.jpg)
 ![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/8d78faf18c8882cc02588c74e36c9c110689e7d5/book.jpg)
-![image alt](https://github.com/Rishabhjain-92/Find_HackathonMentor/blob/8d78faf18c8882cc02588c74e36c9c110689e7d5/feedback.jpg)
+![image alt]()
 
